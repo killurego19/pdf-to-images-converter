@@ -147,7 +147,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **MOHAMED SADIQ**
 
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- GitHub: [@killurego19](https://github.com/killurego19)
 
 ## Acknowledgments
 
