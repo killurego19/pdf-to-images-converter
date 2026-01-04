@@ -15,12 +15,6 @@ A simple, user-friendly desktop application that converts PDF files (including p
 - **Auto Output Folder** - Automatically creates an output folder in the same directory as the PDF
 - **Cross-Platform** - Works on Windows, macOS, and Linux
 
-## Screenshots
-
-![Application Screenshot](screenshots/app_screenshot.png)
-
-*Main application window*
-
 ## Requirements
 
 - Python 3.7 or higher
